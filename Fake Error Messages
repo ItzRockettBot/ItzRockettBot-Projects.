@@ -1,4 +1,0 @@
-# Delete Everything With A "#" In Front
-X=MsgBox("Enter Error here",0+16,"Insert Top Bar Name Here")
-X=MsgBox("Enter Error here",0+16,"Insert Top Bar Name Here")
-# The More X=MsgBox Means When You click Ok It Will Go To The Next One
